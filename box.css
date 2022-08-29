@@ -1,0 +1,84 @@
+search{
+  
+    border-radius: 7px;
+    border: 2px solid white;
+    
+}
+#title{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 20px;
+    color: white;
+    padding-left: 30px;
+}
+#nav{
+    float: left;
+    padding-left: 40px;
+}
+#enter{
+   
+    margin-top: 30px;
+    width: 200px;
+    height: 100px;
+    float: right;
+    margin-right:40px ;
+}
+#main1{
+  background-color: black;
+    height: 130px;
+    width: 1300px;
+   
+   
+    
+}
+#nav button{
+margin-left: 40px;
+background-color: black;
+color: white;
+}
+#nav button:hover{
+    color: wheat;
+}
+
+#nav button a{
+    text-decoration: none;
+    color: white;
+}
+#nav button a:hover{
+    color: wheat;
+}
+#equ ol  li a{
+    border: 2px solid white;
+    margin-right: 20px;
+    color: black;
+ }
+ #equ {
+     display: none;
+     background-color: white;
+ }
+ #equ ol li a:hover{
+     color: #60042C;
+ 
+ 
+ }
+ .card{
+    margin-left: 20px;
+    margin-top: 20px;
+    
+
+ }
+
+.card:hover{
+    border: 2px solid black;
+}
+
+ .card-text{
+    padding-left: 70px;
+    color: red;
+}
+.btn {
+    margin-left: 50px;
+    background-color: black;
+    color: white;
+
+}
+
